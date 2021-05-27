@@ -1,1 +1,1 @@
-expect ex_start.sh
+expect /root/yun/ex_start.sh
